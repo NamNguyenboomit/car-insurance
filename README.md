@@ -1,2 +1,3 @@
-# car-insurance
-Prediction about claiming in car insurance field
+# CAR INSURANCE CLAIM PREDICTION IN NEXT 6 MONTHS
+
+
